@@ -48,5 +48,6 @@
                 "Grimzy\\LaravelMysqlSpatial\\SpatialServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
